@@ -31,10 +31,12 @@ A graphical Chess game built using *C++* and the *SplashKit* library.
 - [SplashKit](https://www.splashkit.io/)
 - Git (for cloning)
 
-### Setup
+#Setup
 
-# bash
+##bash
 git clone https://github.com/KrishAtGit/Chess-in-CPP.git
+
 cd Chess-in-CPP
+
 g++ *.cpp -o chess_game -l SplashKit
 ./chess_game
