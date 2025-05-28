@@ -5,7 +5,7 @@ A graphical Chess game built using *C++* and the *SplashKit* library.
 ## Game Features
 
 - Graphical chess board and pieces perfectly aligned using SplashKit
-- Correct algorithms for:
+- Appropriate algorithms for:
   - Pawn
   - Rook
   - Knight
